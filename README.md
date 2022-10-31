@@ -1,7 +1,13 @@
 # Jogo da Memória
 
-Projeto Criado em aula no curso B7Web
 
-### "npm start"
+Projeto em Vite-React + Typescript
+.
 
-### 'npm run dev'
+Projeto desenvolvido durante o curso [B7Web](https://b7web.comb.br).
+
+### Instalação:
+- `npm install`
+
+### Para rodar:
+- `npm run dev`
